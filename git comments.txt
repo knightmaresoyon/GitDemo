@@ -1,0 +1,20 @@
+1.git init
+2.git remote add origin "https://github.com/knightmaresoyon/git-demo.git"
+3.git pull origin master
+4.git status
+5.git add "edu1.txt"/ add -A/ add *
+6.git commit -m "first commit in local repo"/commit -a -m "commit all"
+7.git rm -f .git/index.lock
+8.git log
+9.git branch branch name
+10.git branch -d branch name (delete branch)
+11.git cheakout branch name (switch between branches)
+12.git merge branch name (make sure to be in master)
+13.
+
+
+
+
+ls for list of files
+cat file name for modified changes
+
